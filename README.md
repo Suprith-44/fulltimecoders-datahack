@@ -1,70 +1,14 @@
-# Getting Started with Create React App
+# CyberAnalyst.ai
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![App](back.jpg)
 
-## Available Scripts
+Innovative AI-driven cybersecurity assessment platform designed to fortify organizations against the ever-present threat of cyber attacks in the gritty digital landscape. Our intelligent bot serves as a relentless cyber guardian, conducting comprehensive security evaluations through dynamic questioning and insightful analysis.
 
-In the project directory, you can run:
+Key features:
+1. Advanced Infrastructure Analysis: Our bot begins by analyzing uploaded infrastructure documentation, using NLP and text analysis to identify potential vulnerabilities and gaps in security.
+2. Dynamic Questioning: Employing over 300 adaptive questions across crucial domains like Network Security, Data Protection, Incident Response, and Compliance, our bot digs deep into your organization's defenses.
+3. Real-Time Risk Scoring: As the assessment progresses, bot calculates an instant risk score, providing a clear snapshot of your organization's security posture.
+4. Actionable Insights: Upon completion, the bot generates a detailed report with prioritized, tailored recommendations to strengthen your cybersecurity defenses.
+5. Compliance Verification: Checks your practices against common standards like GDPR and HIPAA, ensuring you stay ahead of regulatory requirements.
 
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+By leveraging the power of AI and NLP, CyberAnalyst.ai empowers organizations to proactively identify and address cybersecurity weaknesses, turning potential digital chaos into a robust defense strategy
